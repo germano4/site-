@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #28a745; /* Verde */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura total da tela */
+    color: #fff; /* Texto branco */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
